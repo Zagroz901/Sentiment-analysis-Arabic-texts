@@ -17,7 +17,6 @@ Ensure you have Python installed and then set up your environment using the foll
 ```bash
 pip install jupyter==1.0.0 keras==2.6.0 Keras-Preprocessing==1.1.2 matplotlib==3.5.1 nltk==3.6.5 numpy==1.19.5 pandas==1.3.5 scikit-learn==1.0.1 seaborn==0.11.2 sklearn==0.0 snowballstemmer==2.0.0 tensorflow==2.6.0 wordcloud==1.8.1 python-bidi==0.4.2 arabic-reshaper==2.1.3
 ```
-The `requirements.txt` file includes necessary libraries such as Keras, TensorFlow, NLTK, and others.
 
 ## Requirements
 Python libraries used in this project:
